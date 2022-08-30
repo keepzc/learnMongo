@@ -1,0 +1,23 @@
+{
+  "name": "learnMongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^4.8.1",
+    "@casl/ability": "^5.4.3",
+    "ioredis": "^4.28.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.0.10"
+  },
+  "devDependencies": {
+    "@types/ioredis": "^4.27.8",
+    "@types/lodash": "^4.14.178"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
